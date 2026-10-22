@@ -1,0 +1,8 @@
+# CloudFire project dependencies
+# External packages imported by main.py:
+fastapi
+uvicorn
+
+# Python standard-library modules used by main.py (no installation needed):
+# socket, struct, time, subprocess, os, sqlite3, threading,
+# webbrowser, platform, collections
